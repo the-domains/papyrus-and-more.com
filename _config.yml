@@ -1,0 +1,28 @@
+name: Papyrus and More
+favicon: null
+layout_spectrum: 0.3503645558375865
+typography_spectrum: 0.07072389568202198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9837935431860387
+  lightness: 0.5711784374434501
+  saturation: 0.41151542076840997
+  rhythmicContrast: 0.7596570244058967
+purpose: []
